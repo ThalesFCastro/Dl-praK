@@ -1,22 +1,31 @@
 # DlápraK
 
-# VALUE PROPOSITION CANVAS
+# Projeto
+Este projeto visa desenvolver uma solução criativa e inovadora para revolucionar a forma como as pessoas moram. Para nós, "morar" não se restringe unicamente ao imóvel, mas engloba também a região e o ambiente que está ao redor, o "mundo lá fora". Afinal de contas, tão bom quanto ter um lar aconchegante é poder desfrutar da vida e das possibilidades que sua rua, seu bairro e a sua cidade te oferecem ;) 
 
-# BUSINESS MODEL
+# Problema
+Pessoas que se mudam de estado, cidade e até mesmo de bairro muitas vezes não conhecem a região para onde estão indo. As pesquisas na internet são exaustivas, falta tempo para visitar imóveis e muitas visitas são inúteis dado que o imóvel e sua localização não se encaixam no perfil do inquilino. As pesquisas e critérios de seleção aplicados em sites de aluguel/imobiliarias se resumem às caracteristicas do imóvel em si. Informações relevantes do bairro/região devem ser "garimpadas" de fontes diversas por aqueles que buscam um novo local para morar.
 
-# PROBLEMA
+# Persona
+Ariel tem 30 anos, tem emprego formal e está em busca de um novo local para morar porque 
 
-# PROJETO
-Nosso projeto visa desenvolver uma solução criativa e inovadora que revolucione a forma como as pessoas moram. Para nós, morar não se restringe ao imóvel onde residimos mas engloba também a região e o ambiente em que nossa casa está situado. Afinal de contas, tão bom quanto ter nosso imóvel é poder desfrutar da vida e das possibilidades que a rua, o bairro e a cidade nos oferecem ;) 
+# Value Proposition Canvas
 
-# PERSONA
 
-# SOLUÇÃO
+# Solução
 
-# DIFERENCIAIS COMPETITIVOS
+# Diferenciais competitivos
 
-# FORMA DE MONETIZAÇÃO
+- Usuário não pesquisa sobre a região, nós entregamos a recomendação com base nas preferências dele
+- Usuário não precisa conhecer cidade onde vai morar
 
-# TECNOLOGIA UTILIZADA
+# Forma de monetização
 
-# PITCH
+# Tecnologia utilizada
+
+# Pitch
+
+
+
+
+# Business Model
