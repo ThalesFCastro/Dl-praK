@@ -28,8 +28,8 @@ Nossos diferenciais competitivos são:
 ## Tecnologia utilizada
 
 ## Roadmap
-- Pin com descrição das regiões
-- Usar redes sociais e Big Data para mapear as regiões
+- Descrição das regiões sugeridas para o usuário (Por quê tal região foi selecionada para o inquilino?)
+- Usar redes sociais e Big Data para auxiliar no mapeamento de regiões
 - Usar redes sociais para ampliar conhecimento sobre o inquilino
 
 ## Pitch
